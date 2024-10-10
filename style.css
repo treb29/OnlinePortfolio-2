@@ -178,34 +178,6 @@ body.dark-mode .btn:hover{
     background-color: #697565;
 }
 
-body.dark-mode #dark-mode-toggle img {
-    content: url('assets/toggle-light.png');
-}
-
-body.dark-mode #linkedin img {
-    content: url('assets/linkedin-hover.png');
-}
-
-body.dark-mode #linkedin img:hover {
-    content: url('assets/linkedin-light.png');
-}
-
-body.dark-mode #github img {
-    content: url('assets/github-hover.png');
-}
-
-body.dark-mode #github img:hover {
-    content: url('assets/github-light.png');
-}
-
-body.dark-mode #email img {
-    content: url('assets/email-dark-mode.png');
-}
-
-body.dark-mode #email img:hover {
-    content: url('assets/email-dark-mode-hover.png');
-}
-
 body.dark-mode svg{
     fill: #74a365;
 }

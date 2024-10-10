@@ -74,11 +74,11 @@ html{
 
 @media(max-width:550px){
     .links-container{
-        height: 100%;
+        height: fit-content;
         flex-direction: column;
         align-items: flex-start;
 
-        position: fixed;
+        position: absolute;
         top: 0;
         left: -100%;
         z-index: 99;

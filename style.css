@@ -179,31 +179,31 @@ body.dark-mode .btn:hover{
 }
 
 body.dark-mode #dark-mode-toggle img {
-    content: url('./images/toggle-light.png');
+    content: url('assets/toggle-light.png');
 }
 
 body.dark-mode #linkedin img {
-    content: url('./images/linkedin-hover.png');
+    content: url('assets/linkedin-hover.png');
 }
 
 body.dark-mode #linkedin img:hover {
-    content: url('./images/linkedin-light.png');
+    content: url('assets/linkedin-light.png');
 }
 
 body.dark-mode #github img {
-    content: url('./images/github-hover.png');
+    content: url('assets/github-hover.png');
 }
 
 body.dark-mode #github img:hover {
-    content: url('./images/github-light.png');
+    content: url('assets/github-light.png');
 }
 
 body.dark-mode #email img {
-    content: url('./images/email-dark-mode.png');
+    content: url('assets/email-dark-mode.png');
 }
 
 body.dark-mode #email img:hover {
-    content: url('./images/email-dark-mode-hover.png');
+    content: url('assets/email-dark-mode-hover.png');
 }
 
 body.dark-mode svg{

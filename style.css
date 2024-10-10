@@ -21,6 +21,7 @@ html{
 /* Navbar */
 
 .navbar{
+    z-index: 10;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -121,7 +122,7 @@ html{
         position: fixed;
         top: 0;
         right: 0;
-        z-index: 100;
+        z-index: 10;
     }
 }
 
@@ -284,6 +285,8 @@ body.dark-mode .close{
 }
 
 .grid{
+    z-index: 1;
+    position: relative;
     display: grid;
     grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
     width: 100%;
